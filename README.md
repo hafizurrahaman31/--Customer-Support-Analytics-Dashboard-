@@ -1,5 +1,5 @@
 # Excel-Sales-Dashboard-Beginner-Project
-nteractive Excel dashboard built using advanced formulas, slicers, and visuals. Summarizes sales performance by region and product. Practiced layout design, KPI cards, and dynamic filtering for real-world analytics.
+interactive Excel dashboard built using advanced formulas, slicers, and visuals. Summarizes sales performance by region and product. Practiced layout design, KPI cards, and dynamic filtering for real-world analytics.
 
 
 This project features a fully interactive business dashboard built using Microsoft Excel. It summarizes sales performance across regions, products, and time periods using dynamic visuals and formulas.
